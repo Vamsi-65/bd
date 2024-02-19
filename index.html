@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div>
+    <h1 id="title">ITS MY BDAY</h1>
+    <p id="para">"Thank you so much for the wonderful birthday wishes! Your kind words have truly made my day special. I feel incredibly grateful to have such thoughtful friends/family in my life. Your warm wishes mean the world to me. Here's to another year filled with love, laughter, and cherished moments together!"</p>
+  </div>  
+
+  <div class="in">
+    <input type="text" id="input" placeholder="yourname">
+  </div>
+
+  <div class="bd">
+    <button id="bt" onclick="cong()" type="submit">submit</button>
+  </div>
+
+  <div>
+
+  </div>
+
+
+  <!--javascript-->
+  <script>
+    const name=document.getElementById("input").value;
+     function cong(){
+        alert("thank you for your wishes!!!!!" + name);
+    }
+    
+
+  </script>
+</body>
+</html>
