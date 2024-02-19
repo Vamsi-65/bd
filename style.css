@@ -1,3 +1,8 @@
+body{
+    background-image:url("https://unsplash.com/photos/a-very-tall-mountain-with-a-sky-in-the-background-yxEKJmZ-p3c");
+    background-size:cover;
+    background-position:center;
+}
 #title{
     text-align: center;
     color:skyblue;
