@@ -9,7 +9,7 @@ body{
     text-align: center;
     color:skyblue;
     padding-top: 5%;
-    text-stroke: 1px black;
+    -webkit-text-stroke: 1px black;
 
 }
 .in{
