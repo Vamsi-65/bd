@@ -2,7 +2,7 @@ body{
     background-image:url("vam.jpg");
     background-size:cover;
     background-position:center;
-    background-repeat:norepeat;
+    background-repeat:no-repeat;
 }
 #title{
     text-align: center;
