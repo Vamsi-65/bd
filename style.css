@@ -15,6 +15,7 @@ body{
 .in{
     text-align: center;
     padding-top: 2%;
+    
 }
 #para{
     text-align: center;
@@ -24,9 +25,12 @@ body{
 }
 .bd{
     text-align: center;
-    padding-top: 1%;
+    padding-top: 2%;
 }
 .bt{
     width: 200px;
-    height: 100px;
+    height: 25px;
+}
+.int{
+    height: 25px;
 }
