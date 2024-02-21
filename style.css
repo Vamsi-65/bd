@@ -36,3 +36,8 @@ body{
     height: 25px;
     button-radius:3px;
 }
+.name{
+    text-align:center;
+    color:skyblue;
+    text-shadow: 2px 2px 4px blue;
+}
