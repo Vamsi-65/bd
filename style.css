@@ -29,8 +29,10 @@ body{
 }
 .bt{
     width: 200px;
+    button-radius: 3px;
     height: 25px;
 }
 .int{
     height: 25px;
+    button-radius:3px;
 }
