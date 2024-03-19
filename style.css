@@ -22,6 +22,10 @@ body{
     color: white;
     padding-left:5%;
     padding-right: 5%;
+    border-style:solid;
+    border-radius:2px;
+    background-color:lightblue;
+    opacity:0.2;
 }
 .bd{
     text-align: center;
